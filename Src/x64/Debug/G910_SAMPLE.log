@@ -1,0 +1,47 @@
+﻿  stdafx.cpp
+c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(26): warning C4068: unknown pragma
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(105): warning C4005: 'NTDDI_WIN2K': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(101): note: see previous definition of 'NTDDI_WIN2K'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(106): warning C4005: 'NTDDI_WIN2KSP1': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(102): note: see previous definition of 'NTDDI_WIN2KSP1'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(107): warning C4005: 'NTDDI_WIN2KSP2': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(103): note: see previous definition of 'NTDDI_WIN2KSP2'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(108): warning C4005: 'NTDDI_WIN2KSP3': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(104): note: see previous definition of 'NTDDI_WIN2KSP3'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(109): warning C4005: 'NTDDI_WIN2KSP4': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(105): note: see previous definition of 'NTDDI_WIN2KSP4'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(111): warning C4005: 'NTDDI_WINXP': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(107): note: see previous definition of 'NTDDI_WINXP'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(112): warning C4005: 'NTDDI_WINXPSP1': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(108): note: see previous definition of 'NTDDI_WINXPSP1'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(113): warning C4005: 'NTDDI_WINXPSP2': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(109): note: see previous definition of 'NTDDI_WINXPSP2'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(114): warning C4005: 'NTDDI_WINXPSP3': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(110): note: see previous definition of 'NTDDI_WINXPSP3'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(117): warning C4005: 'NTDDI_WS03': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(112): note: see previous definition of 'NTDDI_WS03'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(118): warning C4005: 'NTDDI_WS03SP1': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(113): note: see previous definition of 'NTDDI_WS03SP1'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(119): warning C4005: 'NTDDI_WS03SP2': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(114): note: see previous definition of 'NTDDI_WS03SP2'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(123): warning C4005: 'NTDDI_WIN6': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(122): note: see previous definition of 'NTDDI_WIN6'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(124): warning C4005: 'NTDDI_WIN6SP1': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(123): note: see previous definition of 'NTDDI_WIN6SP1'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(125): warning C4005: 'NTDDI_WIN6SP2': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(124): note: see previous definition of 'NTDDI_WIN6SP2'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(129): warning C4005: 'NTDDI_VISTA': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(116): note: see previous definition of 'NTDDI_VISTA'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(130): warning C4005: 'NTDDI_VISTASP1': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(117): note: see previous definition of 'NTDDI_VISTASP1'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(131): warning C4005: 'NTDDI_VISTASP2': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(118): note: see previous definition of 'NTDDI_VISTASP2'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(137): warning C4005: 'NTDDI_WS08': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(126): note: see previous definition of 'NTDDI_WS08'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(142): warning C4005: 'NTDDI_WIN7': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(128): note: see previous definition of 'NTDDI_WIN7'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(169): warning C4005: 'SUBVER': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(46): note: see previous definition of 'SUBVER'
+d:\windows kits\10\include\10.0.17134.0\shared\sdkddkver.h(212): warning C4005: 'NTDDI_VERSION_FROM_WIN32_WINNT': macro redefinition
+  c:\users\na'il\downloads\led\samples\g910_sample\g910_sample\sdkddkver.h(52): note: see previous definition of 'NTDDI_VERSION_FROM_WIN32_WINNT'
+d:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\atlmfc\include\afxv_w32.h(40): fatal error C1189: #error:  MFC does not support WINVER less than 0x0501.  Please change the definition of WINVER in your project properties or precompiled header.
