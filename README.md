@@ -5,7 +5,7 @@ Customized Logitech light controller application. Allows for light controls beyo
 
 The application can be launched via the LED App.exe file. Please also check the Logitech LED Program Presentation.pdf for more details.
 
-
+----------------------------------------
 This application was built using C++ and the logitech SDK in Visual Studio. 
 
 
