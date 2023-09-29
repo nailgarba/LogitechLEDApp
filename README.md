@@ -1,12 +1,17 @@
 # LogitechLEDApp
 
-Customized Logitech light controller application. Allows for light controls beyond what is offered by Logitech Ghub application.
+Customized Logitech light controller application. Allows for light controls beyond what is offered by Logitech GHub application.
 
-This application was built using C++ and the logitech SDK in Visual Studio. 
 
 The application can be launched via the LED App.exe file. Please also check the Logitech LED Program Presentation.pdf for more details.
 
+
+This application was built using C++ and the logitech SDK in Visual Studio. 
+
+
 The primary source file used for the application can be found in LogitechLEDApp/Src/G910_SAMPLEDlg.cpp file. There you will find the functions responsible for applying light controls to the application.
+
+
 
 ---DESCRIPTION
 
